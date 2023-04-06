@@ -7,13 +7,13 @@ Artificial Intelligence (AI), Machine Learning (ML), Information Retrieval (IR) 
 # Tutorial Outline
 **Part** | **Topic** | **Presenter** | **Link to Slides**
 --- | --- | --- | ---
-1 | Background on legal text | Saptarshi Ghosh | -
-2 | Brief history of AI-Law and important milestones | Jack G. Conrad | -
-3 | Background on NLP and IR | Pawan Goyal | -
-4 | State-of-the-art survey | Debasis Ganguly, Paheli Bhattacharya and Kripabandhu Ghosh | -
-5 | Industry perspective | Jack G. Conrad | -
-6 | Future directions, advent of LLMs and explainability | Jack G. Conrad, Kripabandhu Ghosh and Saptarshi Ghosh | -
-7 | Hands-on coding | Debasis Ganguly, Paheli Bhattacharya, Shounak Paul and Shubham Kumar Nigam | -
+1 | Background on legal text | Saptarshi Ghosh | [Slides](https://github.com/Law-AI/ecir2023tutorial/blob/main/legal-text-background.pdf)
+2 | Brief history of AI-Law and important milestones | Jack G. Conrad | [Slides](https://github.com/Law-AI/ecir2023tutorial/blob/main/history-ai-law.pdf)
+3 | Background on NLP and IR | Pawan Goyal | [Slides](https://github.com/Law-AI/ecir2023tutorial/blob/main/nlp-ir-background.pdf)
+4 | State-of-the-art survey | Debasis Ganguly, Paheli Bhattacharya and Kripabandhu Ghosh | [Slides](https://github.com/Law-AI/ecir2023tutorial/blob/main/sota-survey.pdf)
+5 | Industry perspective | Jack G. Conrad | [Slides](https://github.com/Law-AI/ecir2023tutorial/blob/main/industry-pov.pdf)
+6 | Future directions, advent of LLMs and explainability | Jack G. Conrad, Kripabandhu Ghosh and Saptarshi Ghosh | [Slides](https://github.com/Law-AI/ecir2023tutorial/blob/main/future-directions.pdf)
+7 | Hands-on coding | Debasis Ganguly, Paheli Bhattacharya, Shounak Paul and Shubham Kumar Nigam | [Slides](https://github.com/Law-AI/ecir2023tutorial/blob/main/hands-on.ipynb)
 
 # Task-specific Resources
 This section contains resources for different automation tasks in the legal domain
