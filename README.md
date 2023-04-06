@@ -84,4 +84,4 @@ This is a miscellaneous list of other resources.
 + [Pawan Goyal](http://cse.iitkgp.ac.in/~pawang), Associate Professor, Deptt. of Computer Science & Engineering, IIT Kharagpur, West Bengal, India
 + [Paheli Bhattacharya](https://sites.google.com/site/pahelibh/)
 + [Shubham Kumar Nigam](https://sites.google.com/view/shubhamkumarnigam), Senior Research Fellow, Department of Computer Science & Engineering, IIT Kanpur, Uttar Pradesh, India
-+ [Shounak Paul])(https://sites.google.com/view/shounakpaul95), Senior Research Fellow, Department of Computer Science & Engineering, IIT Kharagpur, West Bengal, India
++ [Shounak Paul](https://sites.google.com/view/shounakpaul95), Senior Research Fellow, Department of Computer Science & Engineering, IIT Kharagpur, West Bengal, India
