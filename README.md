@@ -13,7 +13,7 @@ Artificial Intelligence (AI), Machine Learning (ML), Information Retrieval (IR) 
 4 | State-of-the-art survey | Debasis Ganguly, Paheli Bhattacharya and Kripabandhu Ghosh | [Slides](https://github.com/Law-AI/ecir2023tutorial/blob/main/sota-survey.pdf)
 5 | Industry perspective | Jack G. Conrad | [Slides](https://github.com/Law-AI/ecir2023tutorial/blob/main/industry-pov.pdf)
 6 | Future directions, advent of LLMs and explainability | Jack G. Conrad, Kripabandhu Ghosh and Saptarshi Ghosh | [Slides](https://github.com/Law-AI/ecir2023tutorial/blob/main/future-directions.pdf)
-7 | Hands-on coding | Debasis Ganguly, Paheli Bhattacharya, Shounak Paul and Shubham Kumar Nigam | [Slides](https://github.com/Law-AI/ecir2023tutorial/blob/main/hands-on.ipynb)
+7 | Hands-on coding | Debasis Ganguly, Paheli Bhattacharya, Shounak Paul and Shubham Kumar Nigam | [iPython Notebook](https://github.com/Law-AI/ecir2023tutorial/blob/main/hands-on.ipynb)
 
 # Task-specific Resources
 This section contains resources for different automation tasks in the legal domain
