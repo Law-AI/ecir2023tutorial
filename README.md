@@ -77,3 +77,11 @@ This is a miscellaneous list of other resources.
 
 # Presenters
 
++ (Debasis Ganguly)[https://gdebasis.github.io/], Lecturer (Assistant Professor), School of Computing Science, University of Glasgow, Glasgow, Scotland
++ (Jack G. Conrad)[http://www.conradweb.org/~jackg/], Director of Applied Research, Thomson Reuters Labs, Minneapolis, MN  USA
++ (Kripabandhu Ghosh)[https://www.iiserkol.ac.in/web/en/people/faculty/cds/kripaghosh], Assistant Professor, Department of Computational & Data Sciences, IISER Kolkata, West Bengal, India
++ (Saptarshi Ghosh)[http://cse.iitkgp.ac.in/~saptarshi], Assistant Professor, Department of Computer Science & Engineering, IIT Kharagpur, West Bengal, India
++ (Pawan Goyal)[http://cse.iitkgp.ac.in/~pawang], Associate Professor, Deptt. of Computer Science & Engineering, IIT Kharagpur, West Bengal, India
++ (Paheli Bhattacharya)[https://sites.google.com/site/pahelibh/]
++ (Shubham Kumar Nigam)[https://sites.google.com/view/shubhamkumarnigam], Senior Research Fellow, Department of Computer Science & Engineering, IIT Kanpur, Uttar Pradesh, India
++ (Shounak Paul)[https://sites.google.com/view/shounakpaul95], Senior Research Fellow, Department of Computer Science & Engineering, IIT Kharagpur, West Bengal, India
